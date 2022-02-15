@@ -1,9 +1,9 @@
-<h1 align='center'> 👋 Greetings! I'm...</h1>
+<h1 align='center'> 👋 Greetings! I'm Jeanella</h1>
 
 <p align='center'>
   💻 a Front-end developer based in the hip city of Lille, France 🇫🇷 near the Belgian border 🍺.<br />
   🏝️ originally from sunny Philippines 🇵🇭 and moved to France in 2015.<br />
-  🧑‍🎓 pursuing a <a href='https://mastertcloc.unistra.fr/'>Masters in Technical Communication and Localization</a> from the University of Strasbourg, class of 2023.<br />
+  🧑‍🎓 pursuing a <a href='https://mastertcloc.unistra.fr/'>Master's in Technical Communication and Localization</a> from the University of Strasbourg, class of 2023.<br />
   🏫 a graduate of Computer Science from <a href='https://dcs.upd.edu.ph/'>the University of the Philippines</a><br />
   ✨ a huge fan of clean code and well-written documentation<br />
   🖼️ a digital artist
