@@ -1,4 +1,4 @@
-<h1 align='center'> 👋 Greetings! I'm Jeanella</h1>
+<h1 align='center'>👋 Greetings! I'm Jeanella</h1>
 
 <p align='center'>
   💻 a Front-end developer based in the hip city of Lille, France 🇫🇷 near the Belgian border 🍺.<br />
@@ -14,6 +14,11 @@
 ## 💡 Skills
 - **Front-end**: Angular, Javascript, CSS, HTML, Design Systems, Unit Testing  
 - **Design**: Adobe Photoshop, Adobe Illustrator
+
+## 🎩 Specialties
+- Design Systems and reusable components
+- SDKs
+- Technical Documentation, DocOps
 
 ## 🌱 Currently learning
 - React
