@@ -25,10 +25,8 @@
 <a href="https://app.daily.dev/argousiere"><img align="right" src="https://github.com/argousiere/argousiere/blob/main/devcard.svg" width="300" alt="argousiere's Dev Card"/></a>
 
 ## 🌱 Currently learning
-- React
 - Svelte
 - Storybook
-- TailwindCSS
 - Cypress
 - Figma
 
@@ -38,11 +36,11 @@ When I'm not burning the midnight oil coding, I like to dabble in:
 - 📝 illustration
 - 🍜 international cuisine
 - 📖 science fiction ([Ted Chiang](https://www.newyorker.com/culture/persons-of-interest/ted-chiangs-soulful-science-fiction) is one of my favorite authors)
-- 🗺️ language learning (I'm C1/C2 in French 🇫🇷, and currently pursuing Mandarin 🇹🇼 and Danish 🇩🇰)
+- 🗺️ language learning (I'm C1/C2 in French 🇫🇷, and currently pursuing Danish 🇩🇰 and Mandarin 🇹🇼 and )
 
 <br />
 
-<h1 align="center">Let's connect!</h1>
+<h2 align="center">Let's connect!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/jeanellapascual/">
    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
