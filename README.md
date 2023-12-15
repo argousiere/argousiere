@@ -5,7 +5,6 @@
 <p>
   💻 a Front-end developer based in the hip city of Lille, France 🇫🇷 near the Belgian border 🍺.<br />
   🏝️ originally from sunny Philippines 🇵🇭 and moved to France in 2015.<br />
-  🧑‍🎓 pursuing a <a href="https://mastertcloc.unistra.fr/">Master's in Technical Communication and Localization</a> from the University of Strasbourg, class of 2023.<br />
   🏫 a graduate of Computer Science from <a href="https://dcs.upd.edu.ph/">the University of the Philippines</a><br />
   ✨ a huge fan of clean code and well-written documentation<br />
   🖼️ a digital artist
@@ -36,7 +35,7 @@ When I'm not burning the midnight oil coding, I like to dabble in:
 - 📝 illustration
 - 🍜 international cuisine
 - 📖 science fiction ([Ted Chiang](https://www.newyorker.com/culture/persons-of-interest/ted-chiangs-soulful-science-fiction) is one of my favorite authors)
-- 🗺️ language learning (I'm C1/C2 in French 🇫🇷, and currently pursuing Danish 🇩🇰 and Mandarin 🇹🇼 and )
+- 🗺️ language learning (I'm C1/C2 in French 🇫🇷, and currently pursuing Danish 🇩🇰 and Mandarin 🇹🇼)
 
 <br />
 
